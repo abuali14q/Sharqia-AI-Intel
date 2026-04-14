@@ -220,6 +220,6 @@ else:
 st.markdown(f"""
     <div class="footer">
         Developed by Ahmad M. Al Musallem. All rights reserved. <br>
-        (طور بواسطة أحمد محمد المسلم وجميع الحقوق محفوظة له)
+        (طور بواسطة أحمد محمد المسلم  وجميع الحقوق محفوظة له)
     </div>
     """, unsafe_allow_html=True)
